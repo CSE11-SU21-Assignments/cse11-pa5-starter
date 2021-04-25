@@ -16,7 +16,7 @@ We've added a `CREDITS.txt` to note others you worked with.
 - The resubmission will be open for 2 weeks after the PA's original due date.
 
 ## Array Methods
-In a file called ```ArrayExamples.java```, write the following methods in a class called ```ArrayExamples```. For each, write three tests (a test is a use of ```checkExpect```) where each of the three has a different length of array used in the input.
+In a file called ```ArrayExamples.java```, write the following methods in a class called ```ArrayExamples```. For **each**, write **at least three** tests (a test is a use of ```checkExpect```) where each of the three has a different length of array used in the input.
 
 - Write a method called ```joinWith``` that takes an array of ```String``` and a ```String``` separator, and returns a new String that contains the strings from the array separated by that separator. For example, for an array containing ```"a"```, ```"b"```, and ```"c"``` with separator ```":"```, the result would be ```"a:b:c"``` (note that there’s no colon at the end, just in between the elements). If the input array is empty, produces the empty string.
 - Write a method called ```allTrue``` that takes an array of ```boolean``` and returns ```true``` if all the elements in the array are ```true```. If the array is empty, produces ```true```.
