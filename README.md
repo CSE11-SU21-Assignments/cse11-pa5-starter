@@ -86,7 +86,7 @@ Please do reach out if you run into issues with this, and try something out earl
 ## Submission
 You will upload your video file to this link:
 
-[Upload Form](https://docs.google.com/forms/d/e/1FAIpQLSchpY6xfluIFOYjgnwcnm_3aVp2_Nzr4yLdtiVi3pCWuUrWhg/viewform)
+[Upload Form](https://docs.google.com/forms/d/e/1FAIpQLSeHXUmdfyJo5Xg0pSk6pH4icq-MyrNrC0n3_dgNKQAvynSGcQ/viewform?usp=sf_link)
 
 All of your Java files you will upload to Gradescope as usual.
 
