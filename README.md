@@ -13,7 +13,7 @@ We've added a `CREDITS.txt` to note others you worked with.
 - We will not accept this PA late.
 - If you did not submit this PA or did poorly (<75%), you can fix your PA and resubmit it to the PA resubsmission assignment in Gradescope to earn a maximum of 75% the points.
 - If you scored higher than 75% on the origianl PA, we may grade the resubmission, but will not change your original grade.
-- The resubmission will be open for 2 weeks after the PA's original due date.
+- The resubmission will be open for 1 weeks after the PA's original due date.
 
 ## Array Methods
 In a file called ```ArrayExamples.java```, write the following methods in a class called ```ArrayExamples```. For **each**, write **at least three** tests (a test is a use of ```checkExpect```) where each of the three has a different length of array used in the input.
