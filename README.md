@@ -1,5 +1,5 @@
 # CSE-11 Programming Assignment 5
-### Due Date: Wednesday, May 5, 11:59PM Pacific Time
+### Due Date: Wednesday, July 14, 11:59PM Pacific Time
 ## Learning Goals
 - Practice writing methods that calculate values from arrays using loops.
 - Practice making a screencast in preparation for the take-home screencast exam.
