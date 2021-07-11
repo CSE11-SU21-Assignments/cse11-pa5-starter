@@ -67,7 +67,7 @@ Example: ```keys``` contains ```"UCSD"```, ```"UCLA"```, ```"UCI"``` and ```valu
 For the take-home exams, you’ll be recording a screencast that demonstrates your programs. The last part of this PA has you practice with this.
 
 You will record a short video (no more than 2 minutes). Include:
-- Your face and your student ID for a few seconds at the beginning. You don’t have to be on camera the whole time, though it’s fine if you are. Just a brief confirmation that it’s you creating the video and doing the work attached to the video.
+- Show your face and a picture ID (your student ID is preferred) for a few seconds at the beginning. You don’t have to be on camera the whole time, though it’s fine if you are. Just a brief confirmation that it’s you creating the video and doing the work attached to the video.
 - A capture of your screen running your ```Longest``` program. Make sure the code of ```Longest.java``` AND your terminal output are shown in the video
 - Show running the two examples of Longest above, with their results clearly visible in the terminal
 
@@ -82,7 +82,7 @@ The associated video that was created is here:
 You don’t have to make your screencast with Zoom, but Zoom is UCSD-licensed software that you have access to, so we offer the tutorials with that in mind.
 
 Please do reach out if you run into issues with this, and try something out early so you know if it will work or not for you – you’ll need it for the exam!
-
+   
 ## Submission
 You will upload your video file to this link:
 
