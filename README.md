@@ -44,7 +44,7 @@ Example: ```keys``` contains ```"UCSD"```, ```"UCLA"```, ```"UCI"``` and ```valu
     - ```"--total"```, print the sum of the provided numbers
     - ```"--max"```, print the maximum of the provided numbers
     - ```"--min"```, print the minimum of the provided numbers
-    - any other string, print "Bad option <arg>" where you will replace "<arg>" with the first argument
+    - any other string, print ''"Bad option <arg>"'' where you will replace "<arg>" with the first argument
     - *(Hint: As has been mentioned above, when comparing Strings, the ```==``` operator can be unreliable. Instead use ```.equals``` or ```.compareTo```, which are in the Java String documentation.)*
 
     Examples:
