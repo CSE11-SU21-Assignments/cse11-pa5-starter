@@ -1,5 +1,5 @@
 # CSE-11 Programming Assignment 5
-### Due Date: Wednesday, July 14, 11:59PM Pacific Time
+### Due Date: Thursday, August 19, 11:59PM Pacific Time
 ## Learning Goals
 - Practice writing methods that calculate values from arrays using loops.
 - Practice making a screencast in preparation for the take-home screencast exam.
@@ -86,7 +86,7 @@ Please do reach out if you run into issues with this, and try something out earl
 ## Submission
 You will upload your video file to this link:
 
-[Upload Form](https://docs.google.com/forms/d/e/1FAIpQLSeHXUmdfyJo5Xg0pSk6pH4icq-MyrNrC0n3_dgNKQAvynSGcQ/viewform?usp=sf_link)
+[Upload Form](https://docs.google.com/forms/d/e/1FAIpQLSfdBtsaYN1wd0jCNhO4aVKKzl0Payj8FKWqoAauqEm1A8psaA/viewform?usp=sf_link)
 
 All of your Java files you will upload to Gradescope as usual.
 
